@@ -50,7 +50,7 @@ function title(path){
 // Nav
 function nav(path) {
 	var html = "";
-	html += `<a href="/" class="mdui-typo-headline folder">${document.siteName}</a>`;
+	html += `<img href="/" src="https://speedster.nayemador.com/img/hero.png" width="40%" alt="Speedster Aria Mirror">`;
 	var arr = path.trim('/').split('/');
 	var p = '/';
 	if (arr.length > 0) {
