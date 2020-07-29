@@ -1,3 +1,7 @@
+/**
+ * Combined by jsDelivr.
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
 // load in head necessary static
 document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mdui@0.4.3/dist/css/mdui.min.css">');
 document.write('<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/plyr/3.6.2/plyr.css">');
@@ -50,7 +54,7 @@ function title(path){
 // Nav
 function nav(path) {
 	var html = "";
-	html += `<img href="/" src="https://speedster.nayemador.com/img/hero.png" width="40%" alt="Speedster Aria Mirror">`;
+	html += `<a href="/" class="mdui-typo-headline folder">${document.siteName}</a>`;
 	var arr = path.trim('/').split('/');
 	var p = '/';
 	if (arr.length > 0) {
@@ -460,3 +464,4 @@ $(function(){
     
     render(path);
 });
+//# sourceMappingURL=/sm/d230fbba7cbf8ae825e398d35cfb88d33a3e729edd04feb59b095885e4a5018d.map
