@@ -1,22 +1,40 @@
+<p align="center">
+  <img src="https://speedster.nayemador.com/img/hero.png" width="500" />
+</p>
 
-![GoIndex Drive](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/go-drive-logo.png)
+<div align="center">
+  <h1>Aria Mirror powered by Speedster VPN</h1> 
+</div>
 
-### Source
-Origin https://github.com/donwa/goindex
+<div align="center">
+  <h3>
+    <a href="https://speedster.nayemador.com/">
+      Website
+    </a>
+    <span> | </span>
+    <a href="https://aria.nayemador.com/">
+      Aria Mirror 
+    </a>
+    <span> | </span>
+    <a href="https://fb.com/AdroitAdorKhan">
+      Facebook
+    </a>
+    <span> | </span>
+    <a href="https://m.me/AdroitAdorKhan">
+      Messenger
+    </a>
+    <span> | </span>
+    <a href="https://t.me/AdroitAdorKhan">
+      Telegram
+    </a>
+    
+  </h3>
+</div>
 
-### Quick Deployment
-1. Open https://install.kenci.workers.dev/ (goindex-drive ver. 2.4)
-2. Auth and get the code
-3. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
-
-#### Screenshot
-Light Theme
-![Light Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-light.png)
-
-Dark Theme![Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-dark.png)
 
 ---
-- Light or Dark Themes
-- Color Choice
-- Search
-- Media Playback
+
+<div align="center">
+  <h2>Boost up your slow local internet and use global internet at maximum BDIX speed.</h2>
+  <sub>Project by Nayem Ador with ❤<pub>
+</div>
